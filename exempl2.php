@@ -1,0 +1,1 @@
+Today is <?php echo date("1"); ?>. Here's the latest news.
