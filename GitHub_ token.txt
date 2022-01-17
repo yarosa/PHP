@@ -1,0 +1,4 @@
+
+java.nio.file.AccessDeniedException: /home/user/GitHub/PHP/PhpProject1/.git/index.lock
+GitHub token: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
+git clone https://github.com/yarosa/PHP.git
